@@ -103,7 +103,7 @@ footer{
     text-align: center;
     left: 0;
 }
-@media screen and (max-width:350px){
+@media screen and (max-width:600px){
     header{
         top: 0;
         width: 100%;
