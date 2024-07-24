@@ -160,14 +160,15 @@ footer{
         border-radius: 50%;
     }
     .left{
-        display: inline-block;
+        display: inline;
         width: 50%;
         margin: 0 auto;
         p{
 
             margin: 2px 10px 2px 20px;
+            text-align:justify;
         }
-        /* text-align: justify; */
+    
     }
     .right{
         margin-right: auto;
@@ -193,5 +194,8 @@ footer{
     }
     #lastBtn{
         margin-bottom: 40px;
+    }
+    .sec{
+        margin-top: 140px;
     }
 }
